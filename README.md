@@ -1,11 +1,11 @@
-## <center>Hi, This is Ravi 👋 <img src="https://tenor.com/view/hi-gif-23520343" ></center>
+## Hi, This is Ravi 👋
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/scvslsravikiran"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+Learner+%26+Blogger;Researcher+%26+Papers+Publisher;4%2B+years+of+coding+experience;Always+learning+new+things&center=true&width=380&height=45"></a>
 </p>
 
-<p style="color:Cyan;font-size:20px;text-align: center">
+<p style="color:Cyan;font-size:20px;text-align:center">
   Welcome!!! You are my  <img src="https://profile-counter.glitch.me/scvslsravikiran/count.svg" width = "150px" align="center"/> Visitor
 </p>
 
